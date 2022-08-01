@@ -11443,7 +11443,7 @@ section.resume-section .resume-section-content {
   padding-top: 100px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .img-fluid {
     display: none;
   }
