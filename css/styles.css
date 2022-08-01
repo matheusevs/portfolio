@@ -11442,3 +11442,9 @@ section.resume-section .resume-section-content {
 .espaco{
   padding-top: 100px;
 }
+
+@media only screen and (max-width: 767px) {
+  .img-fluid {
+    display: none;
+  }
+}
