@@ -11400,7 +11400,9 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #495057;
+  background-color: #fff;
+  color: #495057;
+  border: 1px solid #495057;
 }
 
 .dev-icons {
