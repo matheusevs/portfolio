@@ -11366,11 +11366,6 @@ p.lead {
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
-  .img-profile {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-  }
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
